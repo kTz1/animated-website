@@ -70,7 +70,7 @@ const Story = () => {
                   onMouseEnter={handleMouseLeave}
                   src="img/entrance.webp"
                   alt="entrance"
-                  //className="object-contain"
+                  className="object-contain"
                 />
               </div>
             </div>
